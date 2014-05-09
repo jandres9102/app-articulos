@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1055" measuredH="425" mockupW="950" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="105" y="25" w="950" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bienvenido%20a%20tusarticulos.com%0Ahttp%3A//www.tusarticulos.com/ResetPassword</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="146" y="157" w="65" h="-1" measuredW="41" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>correo%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="178" w="281" h="-1" measuredW="142" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>alguien@ejemplo.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="146" y="257" w="-1" h="-1" measuredW="158" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Escribe%20el%20c%F3digo%20que%20ves%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="147" y="285" w="88" h="35" measuredW="743" measuredH="223" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../../../Im%25C3%25A1genes/Captura%2520de%2520pantalla%2520de%25202014-05-09%252000%3A13%3A21.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="326" w="266" h="-1" measuredW="37" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>c%F3d</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="226" y="361" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="146" y="108" w="-1" h="-1" measuredW="235" measuredH="43" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>tuslibros.com</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
